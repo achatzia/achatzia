@@ -1,9 +1,5 @@
 ### Hello World ! 👋
 
-<!--
-**achatzia/achatzia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently self-employed as a physics tutor
 - 🌱 I’m currently learning PCA for ML 
